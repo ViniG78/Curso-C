@@ -1,0 +1,8 @@
+Respostas dos exercicios escritos
+
+3)
+42
+Endereço de memoria da variavel x
+Endereço de memoria da variavel x
+Endereço de memoria da variavel pt
+42

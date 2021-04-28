@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615728357 source:d:\faculdade\2°período\estrutura de dados\lista de ex\aula 1\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

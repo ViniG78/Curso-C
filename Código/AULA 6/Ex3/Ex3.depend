@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617296363 source:d:\faculdade\2°período\estrutura de dados\lista de ex\aula 6\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
