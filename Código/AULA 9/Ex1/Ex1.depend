@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619133004 source:d:\faculdade\2°período\estrutura de dados\lista de ex\aula 9\ex1\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1619132607 d:\faculdade\2°período\estrutura de dados\lista de ex\aula 9\ex1\fila.h
+
+1619137779 source:d:\faculdade\2°período\estrutura de dados\lista de ex\aula 9\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	<locale.h>
+	<conio.h>
+	<time.h>
+
